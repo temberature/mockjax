@@ -1,0 +1,11 @@
+{
+	"name": "mockjax",
+	"description": "ajax假数据库",
+    "ignore": [
+        "**/.*",
+        "**/test",
+        "**/src",
+		"**/lib",
+        "test"
+    ]
+}
