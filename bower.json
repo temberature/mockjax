@@ -1,5 +1,6 @@
 {
 	"name": "mockjax",
+	"main": "jquery-mockjax",
 	"description": "ajax假数据库",
     "ignore": [
         "**/.*",
